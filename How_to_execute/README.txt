@@ -1,19 +1,20 @@
 # README.txt  
 
-Requirements
-Make sure you have Python 3.9+ installed.  
+## 📦 Requirements
+Make sure you have **Python 3.9+** installed.  
 
 Install dependencies from `requirements.txt`:  
 ```
 pip install -r requirements.txt
 ```
 
+---
 
-How to Execute the Code
+## ▶️ How to Execute the Code
 
 1. **Prepare the input file**  
    - Place your Excel input file (e.g., `students.xlsx`) in the **input/** folder.  
-   - The Excel file must contain these columns:  
+   - The Excel file must contain at least these columns:  
      - Roll (student roll number)  
      - Name (student name)  
      - Email (student email)  
@@ -41,4 +42,14 @@ How to Execute the Code
 
 ---
 
-
+## 📁 Project Structure
+```
+2511AI42_CS5105_2025/
+│── How_to_execute/
+│    ├── tut01.py            # Main Streamlit app
+│    ├── requirements.txt    # Dependencies
+│
+│── input/                   # Place your Excel input file here
+│── output/                  # Generated output files will appear here
+│── README.txt               # Instructions
+```
