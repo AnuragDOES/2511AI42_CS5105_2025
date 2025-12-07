@@ -1,0 +1,32 @@
+2025-10-31 12:11:30,972 - __main__ - INFO - File uploaded: input_btp_mtp_allocation.csv, Shape: (90, 22)
+2025-10-31 12:11:32,785 - __main__ - INFO - File uploaded: input_btp_mtp_allocation.csv, Shape: (90, 22)
+2025-10-31 12:11:32,797 - __main__ - INFO - Sorted 90 students by CGPA (descending)
+2025-10-31 12:11:32,797 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 12:11:32,801 - __main__ - INFO - Successfully allocated 90 students
+2025-10-31 12:11:32,802 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 12:11:32,809 - __main__ - INFO - Successfully computed faculty preference statistics
+2025-10-31 12:11:32,821 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 12:16:57,153 - __main__ - INFO - File uploaded: input_btp_mtp_allocation.csv, Shape: (90, 22)
+2025-10-31 12:17:05,034 - __main__ - INFO - File uploaded: input_btp_mtp_allocation.csv, Shape: (90, 22)
+2025-10-31 12:17:05,039 - __main__ - INFO - Sorted 90 students by CGPA (descending)
+2025-10-31 12:17:05,040 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 12:17:05,044 - __main__ - INFO - Successfully allocated 90 students
+2025-10-31 12:17:05,044 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 12:17:05,055 - __main__ - INFO - Successfully computed faculty preference statistics
+2025-10-31 12:17:05,076 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 12:17:07,774 - __main__ - INFO - File uploaded: input_btp_mtp_allocation.csv, Shape: (90, 22)
+2025-10-31 12:19:28,001 - __main__ - INFO - File uploaded: input_btp_mtp_allocation.csv, Shape: (90, 22)
+2025-10-31 12:19:28,007 - __main__ - INFO - Sorted 90 students by CGPA (descending)
+2025-10-31 12:19:28,007 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 12:19:28,011 - __main__ - INFO - Successfully allocated 90 students
+2025-10-31 12:19:28,012 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 12:19:28,023 - __main__ - INFO - Successfully computed faculty preference statistics
+2025-10-31 12:19:28,035 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 12:40:44,048 - __main__ - INFO - File uploaded: input_btp_mtp_allocation.csv, Shape: (79, 22)
+2025-10-31 12:40:46,399 - __main__ - INFO - File uploaded: input_btp_mtp_allocation.csv, Shape: (79, 22)
+2025-10-31 12:40:46,410 - __main__ - INFO - Sorted 79 students by CGPA (descending)
+2025-10-31 12:40:46,411 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 12:40:46,416 - __main__ - INFO - Successfully allocated 79 students
+2025-10-31 12:40:46,417 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 12:40:46,424 - __main__ - INFO - Successfully computed faculty preference statistics
+2025-10-31 12:40:46,437 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
