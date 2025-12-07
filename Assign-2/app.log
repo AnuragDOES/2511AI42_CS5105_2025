@@ -1,0 +1,31 @@
+2025-10-31 12:39:24,795 - __main__ - INFO - File uploaded: input_btp_mtp_allocation.csv, Shape: (90, 22)
+2025-10-31 12:39:40,562 - __main__ - INFO - File uploaded: input_btp_mtp_allocation.csv, Shape: (90, 22)
+2025-10-31 12:39:40,582 - __main__ - INFO - Sorted 90 students by CGPA (descending)
+2025-10-31 12:39:40,583 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 12:39:40,597 - __main__ - INFO - Successfully allocated 90 students
+2025-10-31 12:39:40,598 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 12:39:40,612 - __main__ - INFO - Successfully computed faculty preference statistics
+2025-10-31 12:39:40,641 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 12:51:40,828 - __main__ - INFO - File uploaded: input_btp_mtp_allocation.csv, Shape: (90, 22)
+2025-10-31 12:51:50,158 - __main__ - INFO - File uploaded: input_btp_mtp_allocation.csv, Shape: (90, 22)
+2025-10-31 12:51:50,170 - __main__ - INFO - Sorted 90 students by CGPA (descending)
+2025-10-31 12:51:50,171 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 12:51:50,183 - __main__ - INFO - Successfully allocated 90 students
+2025-10-31 12:51:50,185 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 12:51:50,190 - __main__ - INFO - Successfully computed faculty preference statistics
+2025-10-31 12:51:50,212 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 12:51:56,498 - __main__ - INFO - File uploaded: input_btp_mtp_allocation.csv, Shape: (90, 22)
+2025-10-31 12:52:16,307 - __main__ - INFO - File uploaded: input_btp_mtp_allocation.csv, Shape: (90, 22)
+2025-10-31 12:52:16,321 - __main__ - INFO - Sorted 90 students by CGPA (descending)
+2025-10-31 12:52:16,322 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 12:52:16,337 - __main__ - INFO - Successfully allocated 90 students
+2025-10-31 12:52:16,339 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 12:52:16,346 - __main__ - INFO - Successfully computed faculty preference statistics
+2025-10-31 12:52:16,368 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 13:14:06,444 - __main__ - INFO - File uploaded: input_btp_mtp_allocation.csv, Shape: (90, 22)
+2025-10-31 13:14:11,174 - __main__ - INFO - File uploaded: input_btp_mtp_allocation.csv, Shape: (90, 22)
+2025-10-31 13:14:11,177 - __main__ - INFO - Sorted 90 students by CGPA (descending)
+2025-10-31 13:14:11,177 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 13:14:11,179 - __main__ - INFO - Successfully allocated 90 students
+2025-10-31 13:14:11,180 - __main__ - INFO - Found 18 faculty columns: ['ABM', 'AE', 'AM', 'AR', 'CA', 'JC', 'JM', 'MA', 'RH', 'RM', 'RM2', 'RS', 'SK', 'SKD', 'SKM', 'SM', 'SS', 'ST']
+2025-10-31 13:14:11,183 - __main__ - INFO - Successfully computed faculty preference statistics
